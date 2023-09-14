@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            //Problems prob = new Problems();
-            //prob.RunLINQQueries();
+            Problems prob = new Problems();
+            prob.RunLINQQueries();
         }
     }
 }
